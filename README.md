@@ -25,34 +25,44 @@ A React Native application demonstrating stack navigation using React Navigation
 
 ## Installation
 
-\`\`\`bash
+```
+bash
 npm install
-\`\`\`
+```
 
 ## Running the App
 
-\`\`\`bash
+```
+bash
+```
 
 # Start development server
 
+```
 npm start
+```
 
 # Run on Android
 
+```
 npm run android
+```
 
 # Run on iOS
 
+```
 npm run ios
+```
 
 # Run on web
 
+```
 npm run web
-\`\`\`
+```
 
 ## Project Structure
 
-\`\`\`
+```
 ├── App.js # Main app with navigation
 ├── screens/
 │ ├── HomeScreen.js # Home screen
@@ -60,7 +70,7 @@ npm run web
 ├── package.json # Dependencies
 ├── app.json # Expo configuration
 └── README.md # Documentation
-\`\`\`
+```
 
 ## Screenshots
 
