@@ -74,7 +74,8 @@ npm run web
 
 ## Screenshots
 
-[Add screenshots of your running app here]
+![Alt Text](hs.png)
+![Alt Text](ds.png)
 
 ## Challenges Faced
 
