@@ -78,13 +78,13 @@ npm run web
 ![Alt Text](ds.png)
 
 ## Challenges Faced
-
-[Describe any challenges you encountered and how you resolved them]
-
+```
+I did not encounter any significant challenges during this lab activity. The instructions were clear, and everything worked smoothly from setup to implementation.
+```
 ## Learning Outcomes
-
-[Describe what you learned from this lab activity]
-
+```
+Through this lab activity, I gained hands-on experience with React Native and deepened my understanding of how it works. I learned key concepts such as setting up a React Native development environment, creating and styling components, managing state, and navigating between screens.
+```
 ## References
 
 - [React Navigation Documentation](https://reactnavigation.org/)
